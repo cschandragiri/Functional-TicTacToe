@@ -1,1 +1,1 @@
-# Functional-TicTacToe
+# Functional-TicTacToe based on vJuG demo
